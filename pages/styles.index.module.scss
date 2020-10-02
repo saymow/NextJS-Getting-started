@@ -1,0 +1,12 @@
+.postSection {
+  display: flex;
+  flex-direction: column;
+
+  font-size: 2rem;
+  padding: 1rem 0;
+
+  a {
+    display: block;
+    margin-left: auto;
+  }
+}
